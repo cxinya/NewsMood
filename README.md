@@ -13,11 +13,11 @@ analyzer = SentimentIntensityAnalyzer()
 
 
 ```python
-# Twitter API Keys
-consumer_key = 'wRp4uvyXB1i1lhaCIQtfTuQS8'
-consumer_secret = 'rAPmvLGiCZfcV3AyALThYiDKyRLflxxjahjH1FyoE6YFC7xVfq'
-access_token = '938578488478568448-qCXJCDYwBXsOQsNGg3JE2CDQTwRM87U'
-access_token_secret = 'SL5Rv0pO3Acu7HN5OHlhOUT6zSwthsm610gpmMrpx7LFa'
+# Twitter API Keys - redacted
+consumer_key = 
+consumer_secret = 
+access_token = 
+access_token_secret = 
 
 # Setup Tweepy API Authentication
 auth = tweepy.OAuthHandler(consumer_key, consumer_secret)
